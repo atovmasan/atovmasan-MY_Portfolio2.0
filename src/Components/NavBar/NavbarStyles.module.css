@@ -1,0 +1,27 @@
+.content {
+    display: flex;
+}
+
+.content img {
+    border-radius: 100%;
+    margin: 15px;
+}
+
+.title p {
+    display: inline-block;
+    font-size: large;
+    margin: 35px 0px 0px 10px;
+    background: rgba(0, 0, 0, 0);
+    border-radius: 24px;
+    padding: 7.5px;
+    color: rgb(17, 73, 87);
+}
+
+.title p:hover {
+    display: inline-block;
+    font-size: x-large;
+    margin: 35px 0px 0px 10px;
+    padding-top: 15px;
+    color: rgb(41, 159, 189);
+    transition: 1s;
+}

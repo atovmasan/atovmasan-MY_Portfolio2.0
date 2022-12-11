@@ -1,0 +1,37 @@
+.content {
+    margin-left: 109px;
+    background: aqua;
+    background-repeat: no-repeat;
+    background-size: 100%;
+    padding: 30px;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+
+.skills {
+    text-align: center;
+    display: flex;
+}
+
+.skills div {
+    background: red;
+    width: 700px;
+    margin: auto;
+    margin: 0px 75px 0px 75px;
+    font-size: x-large;
+    padding: 25px;
+}
+
+.threeD {
+
+    text-align: left;
+}
+
+.twoD {
+
+    text-align: right;
+}
+
+p {
+     margin: 15px;
+}

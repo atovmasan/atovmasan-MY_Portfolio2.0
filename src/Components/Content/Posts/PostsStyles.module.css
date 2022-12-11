@@ -1,0 +1,17 @@
+.content {
+    text-align: top;
+}
+
+.content div {
+    margin: 10px;
+    display: inline-block;
+    vertical-align: top;
+    background: white;
+    border-radius: 10%;
+    padding: 5px;
+}
+
+.content img {
+    border-radius: 7%;
+    padding: 5px;
+}

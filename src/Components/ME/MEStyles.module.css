@@ -1,0 +1,17 @@
+.content {
+    margin-left: 109px;
+    background: gold;
+    text-align: center;
+    padding: 30px;
+    padding: 30px;
+}
+
+.contacts {
+    text-align: left;
+    font-size: small;
+    margin-top:  75px;
+}
+
+.contacts div {
+    display: inline;
+}

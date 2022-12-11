@@ -1,0 +1,15 @@
+.content {
+    background: orange;
+    position: absolute;
+    z-index: 1;
+}
+
+.title p {
+    color: rgb(24, 31, 32);
+}
+
+.title p:hover {
+    padding: 10px;
+    color: rgb(41, 159, 189);
+    transition: 1s;
+}
